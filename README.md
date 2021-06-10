@@ -4,9 +4,9 @@
 
 
 
-#### 参考资料：
+### 参考资料：
 
-##### 参考项目
+#### 参考项目
 
 [小意思VR的校园漫游视频](https://www.bilibili.com/video/BV1eh411m7iR?p=1)：**理清开发校园漫游的思路**。
 
@@ -18,7 +18,7 @@
 
 效果参考视频：[校园漫游参考1](https://www.bilibili.com/video/av22850088/)	[校园漫游参考2](https://www.bilibili.com/video/BV11b411n74b)	[校园漫游参考3](https://www.bilibili.com/video/BV1vo4y127xK)	 [校园漫游参考4](https://www.bilibili.com/video/BV1Kt4y1y7bY)
 
-##### unity相关
+#### unity相关
 
 unity教程：
 
@@ -58,7 +58,7 @@ unity小项：
 
 [webgl框架选型](https://github.com/pfan123/Articles/issues/93)
 
-##### 3dMax相关
+#### 3dMax相关
 
 3dMax教程：
 
